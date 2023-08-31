@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlateformeBouge
+  - Ennemy
+  - Key
+  - FlecheA
+  - ObjetDestructible
+  - EnnemyBoss
+  - Limite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Plateforme
+  - Mort
+  - Key
+  - FlecheA
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2580688179
+    locked: 0
+  - name: troisieme plan
+    uniqueID: 1174916403
+    locked: 0
+  - name: Second plan
+    uniqueID: 3580380149
+    locked: 0
+  - name: premier plan
+    uniqueID: 2618220129
+    locked: 0
+  - name: avant plan
+    uniqueID: 2318624031
+    locked: 0
